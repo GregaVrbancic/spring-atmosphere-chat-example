@@ -1,0 +1,2 @@
+# Spring Atmosphere chat example #
+
