@@ -10,7 +10,6 @@
     <properties>
         <spring.version>3.2.0.RELEASE</spring.version>
         <atmosphere.version>2.0.7</atmosphere.version>
-        <atmosphere.jquery.version>1.0.18</atmosphere.jquery.version>
     </properties>
 
     <dependencies>
